@@ -35,6 +35,7 @@
 [Code](https://github.com/johebshaikh/Liver-Disease-Prediction-ML)
 
 I conducted a comprehensive research project to predict the likelihood of liver disease using advanced **machine learning** techniques. This involved data pre-processing to ensure quality and consistency, followed by an in-depth exploratory data analysis **(EDA)** to extract valuable insights and assess **feature selection** methods. I implemented multiple supervised machine learning models, leveraging EDA insights and feature selection to enhance model accuracy. To optimize performance, I utilized **GridSearchCV** for hyperparameter tuning and conducted paired t-tests to compare models. Ultimately, I developed a high-performing prediction model for liver disease, providing actionable insights into key contributing factors.
+
 ![UDMI_Cardiovascular-Disease](/GitHub Repository/UDMI_Cardiovascular-Disease.png)
 
 
