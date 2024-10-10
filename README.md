@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Tableau, MS Excel, R, MATLAB
 
 ## Education					       		
 - M.S., Data Analytics	| Royal Melbourne Institute of Technology University (_December 2021_)	 			        		
