@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Tableau, MS Excel, R, MATLAB
 
 ## Education					       		
-- M.S., Data Analytics	| Royal Melbourne Institute of Technology University (_December 2021_)	 			        		
-- B.E., Electronic Engineering | The University of Mumbai (_May 2017_)
+- M.S., Data Analytics | Royal Melbourne Institute of Technology University (_December 2021_)	 			        		
+- B.E., Electronic Engineering | University of Mumbai (_May 2017_)
 
 ## Work Experience
 **Reporting Insights Analyst @ MUFG (_June 2023 - August 2024_)**
