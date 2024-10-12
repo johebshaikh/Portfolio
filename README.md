@@ -34,22 +34,22 @@
 
 ### AI-Driven Image Segmentation for Enhanced eCommerce Fashion Analytics
 [Code](https://github.com/johebshaikh/TAG-GEN-MODEL-MONITORING-AND-PATTER-RECOGNITION)
-
-In this project, I utilized MODNet and MobileNetV2 for semantic segmentation of fashion products in eCommerce, enhancing customer experience through improved visual search and automated product tagging. Analyzing Google Analytics data from Okkular, I identified consumer behavior trends, revealing the impact of visual search on sales. This research streamlined product tagging, reduced manual effort, and ultimately transformed the online shopping experience by providing precise object identification and tailored recommendations.
-
+In this project, I utilized **MODNet** and **MobileNetV2** for semantic segmentation of fashion products in eCommerce, enhancing customer experience through improved visual search and automated product tagging. Analyzing Google Analytics data from Okkular, I identified consumer behavior trends, revealing the impact of visual search on sales. This research streamlined product tagging, reduced manual effort, and ultimately transformed the online shopping experience by providing precise object identification and tailored recommendations.
 ![ABC](/GitHub Repository/ABC.jpg)
 
 ### Prediction of Likelihood of a Liver Disease
 [Code](https://github.com/johebshaikh/Liver-Disease-Prediction-ML)
-
-We conducted a comprehensive research project to predict the likelihood of liver disease using advanced **machine learning** techniques. This involved data pre-processing to ensure quality and consistency, followed by an in-depth exploratory data analysis **(EDA)** to extract valuable insights and assess **feature selection** methods. We implemented multiple supervised machine learning models, leveraging EDA insights and feature selection to enhance model accuracy. To optimize performance, We utilized **GridSearchCV** for hyperparameter tuning and conducted paired t-tests to compare models. Ultimately, We developed a high-performing prediction model for liver disease, providing actionable insights into key contributing factors.
-
+We conducted a comprehensive research project to predict liver disease likelihood using advanced **machine-learning** techniques. This included data pre-processing, exploratory data analysis **(EDA)**, and **feature selection**. We implemented various supervised models, optimizing performance with **GridSearchCV** for hyperparameter tuning and comparing results using paired t-tests. Ultimately, we developed a high-performing prediction model that offers actionable insights into key contributing factors.
 ![nonalcoholic-fatty-liver-disease_1308-132330](/GitHub Repository/nonalcoholic-fatty-liver-disease_1308-132330.avif)
 
+## Talks & Lectures
+- Guest Lecture: Machine Learning Fundamentals and Applications - Math2319: Machine Learning and Case Study (Professor Aksakalli Vural), RMIT University, Sem 3 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery, Sem 4 2021
+- A Brief Introduction to Networks - Seminar, Sem 1 2020
 
-
-
-
-
-
-
+## Publications
+1. Anwaar, F., Iltaf, N., Afzal, H., & Nawaz, R. (2018). HRS-CE: A hybrid framework to integrate content embeddings in recommender systems for cold start items. Journal of Computational Science, 29, 9-18. https://doi.org/10.1016/j.jocs.2018.08.003
+2. Bou, J. C., & Satorra, A. (2019). Multivariate exploratory data analysis for large databases: An application to modeling firms' innovation using CIS data. Business Research Quarterly, 22(4), 275-293. https://doi.org/10.1016/j.brq.2019.07.002
+3. Fritz Labs Incorporated. (2021). Image Segmentation Guide. Fritz AI. https://www.fritz.ai/image-segmentation
+4. Matcha, A. C. N. (2021). A 2021 guide to semantic segmentation. Nanonets. https://nanonets.com/blog/semantic-image-segmentation-2020/
+5. Vadapalli, P. (2021). Image segmentation techniques. upGrad. https://www.upgrad.com/blog/image-segmentation-techniques/#5_Clustering-Based_Segmentation_Algorithms
