@@ -36,7 +36,7 @@
 
 In this project, I utilized **MODNet** and **MobileNetV2** for semantic segmentation of fashion products in eCommerce, enhancing customer experience through improved visual search and automated product tagging. Analyzing Google Analytics data from Okkular, I identified consumer behavior trends, revealing the impact of visual search on sales. This research streamlined product tagging, reduced manual effort, and ultimately transformed the online shopping experience by providing precise object identification and tailored recommendations.
 
-![ABC](/GitHub Repository/ABC.jpg)
+![Fashion](/GitHub Repository/Fashion.jpg)
 
 ### Prediction of Likelihood of a Liver Disease [Code](https://github.com/johebshaikh/Liver-Disease-Prediction-ML)
 
