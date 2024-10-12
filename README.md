@@ -31,6 +31,13 @@
 - Analyzed cryptocurrency market trends, improving investment returns by 10%.
 
 ## Projects
+
+### AI-Driven Image Segmentation for Enhanced eCommerce Fashion Analytics
+[Code](https://github.com/johebshaikh/TAG-GEN-MODEL-MONITORING-AND-PATTER-RECOGNITION)
+
+In this project, I utilized MODNet and MobileNetV2 for semantic segmentation of fashion products in eCommerce, enhancing customer experience through improved visual search and automated product tagging. Analyzing Google Analytics data from Okkular, I identified consumer behavior trends, revealing the impact of visual search on sales. This research streamlined product tagging, reduced manual effort, and ultimately transformed the online shopping experience by providing precise object identification and tailored recommendations.
+
+
 ### Prediction of Likelihood of a Liver Disease
 [Code](https://github.com/johebshaikh/Liver-Disease-Prediction-ML)
 
