@@ -36,13 +36,13 @@
 
 In this project, I utilized **MODNet** and **MobileNetV2** for semantic segmentation of fashion products in eCommerce, enhancing customer experience through improved visual search and automated product tagging. Analyzing Google Analytics data from Okkular, I identified consumer behavior trends, revealing the impact of visual search on sales. This research streamlined product tagging, reduced manual effort, and ultimately transformed the online shopping experience by providing precise object identification and tailored recommendations.
 
-![Fashion](/GitHub Repository/Fashion.jpg)
+![Fashion](/Img/Fashion.jpg)
 
 ### Prediction of Likelihood of a Liver Disease [Code](https://github.com/johebshaikh/Liver-Disease-Prediction-ML)
 
 We conducted a comprehensive research project to predict liver disease likelihood using advanced **machine-learning** techniques. This included data pre-processing, exploratory data analysis **(EDA)**, and **feature selection**. We implemented various supervised models, optimizing performance with **GridSearchCV** for hyperparameter tuning and comparing results using paired t-tests. Ultimately, we developed a high-performing prediction model that offers actionable insights into key contributing factors.
 
-![nonalcoholic-fatty-liver-disease_1308-132330](/GitHub Repository/nonalcoholic-fatty-liver-disease_1308-132330.avif)
+![nonalcoholic-fatty-liver-disease_1308-132330](/Img/nonalcoholic-fatty-liver-disease_1308-132330.avif)
 
 ## Talks & Lectures
 - Guest Lecture: Machine Learning Fundamentals and Applications - Math2319: Machine Learning and Case Study (Professor Aksakalli Vural), RMIT University, Sem 3 2021
